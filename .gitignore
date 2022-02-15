@@ -14,3 +14,14 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Comprimidos
+*.zip
+*.tar
+*.rar
+
+# Ficheros ocultos sistema operativo
+.DS_Store
+
+# Contraseñas
+.env
