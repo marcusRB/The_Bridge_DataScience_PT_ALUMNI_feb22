@@ -25,3 +25,4 @@ _book
 
 # Contraseñas
 .env
+.ipynb_checkpoints
