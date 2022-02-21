@@ -1,3 +1,4 @@
 # THE_BRIDGE_DS_ALUMNI_feb22
 
-Repositorio PRE-WORK
+Incluye LAB primeros pasos de Python
+Incluye PRA realizada con GitHub
