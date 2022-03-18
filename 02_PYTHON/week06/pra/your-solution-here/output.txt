@@ -1,0 +1,23 @@
+Dia, Afectados, Críticos, Exitus, Estado
+ 0,  4250, 425, 106, No saturado
+ 1,  5737, 573, 143, No saturado
+ 2,  7745, 774, 193, No saturado
+ 3,  10456, 1045, 261, No saturado
+ 4,  14116, 1411, 352, No saturado
+ 5,  19057, 1905, 476, No saturado
+ 6,  25727, 2572, 643, No saturado
+ 7,  34731, 3473, 868, No saturado
+ 8,  46887, 4688, 1172, No saturado
+ 9,  63298, 6329, 1582, No saturado
+ 10,  85452, 8545, 2136, No saturado
+ 11,  115361, 11536, 2884, No saturado
+ 12,  155737, 15573, 3893, No saturado
+ 13,  210246, 21024, 5256, No saturado
+ 14,  283832, 28383, 7095, No saturado
+ 15,  383173, 38317, 9579, No saturado
+ 16,  517284, 51728, 12932, No saturado
+ 17,  698333, 69833, 17458, No saturado
+ 18,  942750, 94275, 23568, No saturado
+ 19,  1272713, 127271, 31817, No saturado
+ 20,  1718162, 171816, 42954, No saturado
+ 21,  2319519, 231951, 57987, No saturado
