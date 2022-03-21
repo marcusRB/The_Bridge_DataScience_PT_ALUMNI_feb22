@@ -1,0 +1,105 @@
+Dia, Afectados, Críticos, Exitus, Estado0
+	5737
+			573
+					193
+							no saturado
+1
+	7745
+			774
+					261
+							no saturado
+2
+	10456
+			1045
+					352
+							no saturado
+3
+	14116
+			1411
+					476
+							no saturado
+4
+	19057
+			1905
+					643
+							no saturado
+5
+	25727
+			2572
+					868
+							no saturado
+6
+	34731
+			3473
+					1172
+							saturado
+7
+	46887
+			4688
+					1582
+							saturado
+8
+	63298
+			6329
+					2136
+							saturado
+9
+	85452
+			8545
+					2884
+							saturado
+10
+	115361
+			11536
+					3893
+							saturado
+11
+	155737
+			15573
+					5256
+							saturado
+12
+	210246
+			21024
+					7095
+							saturado
+13
+	283832
+			28383
+					9579
+							saturado
+14
+	383173
+			38317
+					12932
+							saturado
+15
+	517284
+			51728
+					17458
+							saturado
+16
+	698333
+			69833
+					23568
+							saturado
+17
+	942750
+			94275
+					31817
+							saturado
+18
+	1272713
+			127271
+					42954
+							saturado
+19
+	1718162
+			171816
+					57987
+							saturado
+20
+	2319519
+			231951
+					78283
+							saturado
